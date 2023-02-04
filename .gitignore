@@ -1,0 +1,13 @@
+# Ignore all
+*
+
+# Unignore all with extentions
+!*.*
+
+# Unignore all dirs
+!*/
+
+# Ignore temperary files
+*.o
+*.d
+*.out
